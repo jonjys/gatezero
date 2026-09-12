@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: '%s · GateZero'
   },
   description:
-    'Toll booth for API traffic. Ask gpt-4o, pay for mini. Kill runaway spend. No save → no fee. A product by Nytto Labs.',
+    'Toll booth for API traffic. Ask gpt-4o, pay for mini. Kill runaway spend. No savings → no savings fee (plan fees still apply). A product by Nytto Labs.',
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
