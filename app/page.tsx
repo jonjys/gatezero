@@ -34,7 +34,7 @@ export default async function Landing() {
           </h1>
           <p className="text-zinc-400 text-lg max-w-xl leading-relaxed">
             One base URL. Cheaper route when you allow it. Kill when spend runs.
-            No save → no fee.
+            No savings → no savings fee. Plan fees still apply.
           </p>
           <p className="text-xs text-zinc-500">
             A product by{' '}

@@ -96,7 +96,7 @@ Header: x-gz-key: gz_live_…`}</pre>
         </div>
 
         <p className="text-xs text-zinc-500">
-          No save → no fee. Last hop{' '}
+          No savings → no savings fee (plan fees still apply). Last hop{' '}
           {stats.lastAt ? new Date(stats.lastAt).toISOString() : '—'}.
         </p>
 

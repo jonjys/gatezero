@@ -399,7 +399,7 @@ export default function StartUi() {
       <h1 className="text-3xl font-bold tracking-tight">The booth.</h1>
       <p className="text-sm text-zinc-400 leading-relaxed">
         Vault a restricted key. Ask gpt-4o or Claude sonnet — we send the cheap alias. Kill if it runs.
-        No save → no fee.
+        No savings → no savings fee. Plan fees still apply.
       </p>
 
       {token && (
